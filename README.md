@@ -7,27 +7,13 @@ This repository contains chapter-wise programming exercises based on the *Compil
 
 ---
 
-## 📖 Chapters Covered
-
-- ✅ Chapter 1: Introduction to Compilers  
-- ✅ Chapter 2: Phases of a Compiler  
-- ✅ Chapter 3: Lexical Analysis & Context-Free Grammar  
-- ✅ Chapter 4: Regular Expressions  
-- ✅ Chapter 5: Finite Automata – NFA & DFA  
-- ✅ Chapter 6: Left Recursion & Left Factoring  
-- ✅ Chapter 8: LR(0) Parser and Canonical Table  
-- ✅ Chapter 11: Basic Blocks and Flow Graph  
-- ✅ Chapter 12: Code Optimization  
-
----
-
 ## 🧩 Chapter 1 – Introduction to Compilers
 
-- [P_1.1](p_1.1.c): Count the number of vowels in a string  
-- [P_1.2](p_1.2.c): Convert lowercase letters to uppercase  
-- [P_1.3](p_1.3.c): Reverse a string without using library functions  
-- [P_1.4](p_1.4.c): Count the number of words in a sentence  
-- [P_1.5](p_1.5.c): Check whether a string is a palindrome  
+- **[P_1.1](p_1.1.c):** Write a C program that will count the number of vowels in a string  
+- **[P_1.2](p_1.2.c):** Write a program to convert all lowercase letters in a string to uppercase.  
+- **[P_1.3](p_1.3.c):** Write a C program to reverse a string without using library functions.  
+- **[P_1.4](p_1.4.c):** Write a program to count the number of words in a sentence.  
+- **[P_1.5](p_1.5.c):** Write a C program to check whether a string is a palindrome or not.
 
 ---
 
