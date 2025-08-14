@@ -2,6 +2,7 @@
 
 This repository contains chapter-wise programming exercises based on the *Compiler Blueprint* book. Each exercise is linked to its corresponding source file and focuses on core compiler construction concepts, from lexical analysis to code optimization.
 
+🌐 **Live Site:** [Compiler Learning Hub](https://compiler-learninghub.onrender.com)  
 📥 **Download the book:** [Compiler Blueprint PDF](https://drive.google.com/file/d/1TRMY7GE4qbrQnGHrVyXrGyO641CmaTYF/view?usp=drive_link)
 
 ---
